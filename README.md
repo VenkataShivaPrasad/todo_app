@@ -31,7 +31,7 @@ Clone the repository.
 
 Change into the project directory
 
-<img width="513" alt="image" src="https://github.com/VenkataShivaPrasad/todo_app/assets/137329994/74c7a5ea-6ef0-41af-99d6-50ab6b1978c9">
+<img width="508" alt="image" src="https://github.com/VenkataShivaPrasad/todo_app/assets/137329994/fc5985c9-e7a2-4435-a1a8-9c2f8e8dd848">
 
 #Install dependencies
 
